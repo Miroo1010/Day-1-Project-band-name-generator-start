@@ -9,6 +9,6 @@ answer_1=input(birth_place+"\n")
 pet_name="wessmoo elgat ta3ek? :"
 answer_2=input(pet_name+"\n")
 #4. Combine the name of their city and pet and show them their band name.
-print("Band name yekder tkoon :\n"+answer_1+" "+answer_2)
+print("Band name yekder tkoon :".center(63,"*")+answer_1+" "+answer_2)
 #5. Make sure the input cursor shows on a new line, see the example at:
 #   https://replit.com/@appbrewery/band-name-generator-end
